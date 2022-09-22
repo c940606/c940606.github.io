@@ -3,7 +3,8 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://c940606.github.io",
+  darkmode: "switch";
 
   author: {
     name: "Mr.Hope",
